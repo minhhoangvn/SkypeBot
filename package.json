@@ -1,0 +1,23 @@
+{
+  "name": "skype-bot",
+  "version": "1.0.0",
+  "description": "Demo create skype bot with Nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/minhhoangvn/SkypeBot.git"
+  },
+  "author": "minhhoang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/minhhoangvn/SkypeBot/issues"
+  },
+  "homepage": "https://github.com/minhhoangvn/SkypeBot#readme",
+  "dependencies": {
+    "botbuilder": "^3.9.0",
+    "restify": "^5.1.0"
+  }
+}
